@@ -1,5 +1,8 @@
 # actividad_4
 
+![image](https://github.com/user-attachments/assets/7760e3ca-52c2-4242-bbf2-da829d253a7b)
+
+
 A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Getting Started
